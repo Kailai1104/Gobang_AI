@@ -46,7 +46,7 @@ python auto_play.py
 项目具体介绍详见B站：[【五子棋AI第一期】从零开始弈！悟！](https://www.bilibili.com/video/BV1fQ4y1g7Fs/?spm_id_from=333.999.0.0&vd_source=dd545e9dd58c7b2f051975f0c564a49f)
 
 
-### 项目目前为解决BUG说明
+### 项目目前未解决BUG说明
 
 1. 有时在通过图形界面进行人机对战时会出现AI已落子但界面不显示的问题，重启程序有概率可以解决这一问题。这一问题目前在自动化下棋程序中未出现。
 
